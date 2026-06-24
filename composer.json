@@ -1,0 +1,9 @@
+{
+    "name": "tai/ecommerce-project",
+    "description": "E-Commerce Project using MVC PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
